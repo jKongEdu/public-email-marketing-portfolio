@@ -1,8 +1,3 @@
-## Github guest credentials to view portfolio as a collaborator
-- username: guest-jkong-edu
-- email: guest.jkong.edu@gmail.com
-- pass: Guest2022!
-
 ## Note on my current role
 In my opinion, some of my best work is with my current contract; however, I am not able to showcase them due to copyright restrictions. While I am not able to display them in this portfolio, I think it is pertinent to describe some of the work and learning experiences I have gained. 
 
