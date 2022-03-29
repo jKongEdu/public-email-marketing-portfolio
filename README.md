@@ -1,4 +1,3 @@
-
 ## Github guest credentials to view portfolio as a collaborator
 - username: guest-jkong-edu
 - email: guest.jkong.edu@gmail.com
@@ -25,4 +24,4 @@ With the recent turmoil in the global economic landscape, there was a request by
 Below are email marketing templates that were coded for either volunteer cases or DBA business requests
 | Youth Service Inc.   | ACE   | Open990   | Premier Lending  | Girl Develop It! |
 | :---: | :---: | :---: | :---: | :---: |
-| ![](YSI-philly-ad-hoc-master-template.jpg) | ![](ace-monthly-newsletter-part-1.jpg) | ![](open-990-master-ad-hoc-template.jpg) | ![](premier-doubleCTA-video.jpg) | ![](GDI-master-template.PNG) |
+| ![](https://raw.githubusercontent.com/jKongEdu/Email-Marketing-Potfolio/main/YSI-philly-ad-hoc-master-template.jpg?token=GHSAT0AAAAAABS7LNLTB6OZTVGZHJQFMAF2YSCMRVA) | ![](https://raw.githubusercontent.com/jKongEdu/Email-Marketing-Potfolio/main/ace-monthly-newsletter-part-1.jpg?token=GHSAT0AAAAAABS7LNLSBBHE6VHGMCGXGNG2YSCMR5Q) | ![](https://raw.githubusercontent.com/jKongEdu/Email-Marketing-Potfolio/main/open-990-master-ad-hoc-template.jpg?token=GHSAT0AAAAAABS7LNLTD3QQ2K7WVG44WFY4YSCMSHA) | ![](https://raw.githubusercontent.com/jKongEdu/Email-Marketing-Potfolio/main/premier-doubleCTA-video.jpg?token=GHSAT0AAAAAABS7LNLTJN7AIVRTFQSRNJ7OYSCMSMA) | ![](https://raw.githubusercontent.com/jKongEdu/Email-Marketing-Potfolio/main/GDI-master-template.PNG?token=GHSAT0AAAAAABS7LNLSUA2HLVLDXCAU2BYSYSCMRDQ) |
