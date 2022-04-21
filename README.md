@@ -19,4 +19,4 @@ With the recent turmoil in the global economic landscape, there was a request by
 Below are email marketing templates that were coded for either volunteer cases or DBA business requests
 | Youth Service Inc.   | ACE   | Open990   | Premier Lending  | Girl Develop It! |
 | :---: | :---: | :---: | :---: | :---: |
-| ![](YSI_masterTemplate.jpg) | ![](ACE_masterTemplate.jpg) | ![](open990_masterTemplate.jpg) | ![](premierLending_videoTemplateWithTwoCTAs.jpg) | ![](GDI_masterTemplate.png) |
+| ![](YSI_masterTemplate.jpg) | ![](ACE_masterTemplate.jpg) | ![](open990_masterTemplate.jpg) | ![](GDI_masterTemplate.png) |
