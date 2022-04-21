@@ -1,5 +1,5 @@
 ## Note on my current role
-In my opinion, some of my best work is with my current contract; however, I am not able to showcase them due to copyright restrictions. While I am not able to display them in this portfolio, I think it is pertinent to describe some of the work and learning experiences I have gained. 
+In respect of privacy, I am not dispplaying assets from my current experience. While I am not displaying assets, I believe it is pertinent to describe some of the work and learning experiences I have gained. 
 
 ### Boolean logic and custom tags
 The CMS platform used for marketing emails allows for Boolean logic within the HTML. The CMS platform's language and logic is based on Velocity / Apache, which allows for Booleans within the HTML. A great use case for this is to check on whether or not a user has a calendar link URL listed in their profile, if so, a specific calendar banner is added to the marketing email. 
